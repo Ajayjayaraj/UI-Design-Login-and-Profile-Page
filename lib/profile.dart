@@ -62,7 +62,7 @@ class _ProfilePageState extends State<ProfilePage> {
                           mainAxisAlignment: MainAxisAlignment.spaceBetween,
                           children: [
                             mywid1("35g", "Protein"),
-                            mywid1("25g", "Corbs"),
+                            mywid1("25g", "Carbs"),
                             mywid1("19g", "Fat"),
                           ],
                         ),
@@ -117,11 +117,14 @@ class _ProfilePageState extends State<ProfilePage> {
                                 mywid2(
                                     "https://img.etimg.com/thumb/msid-75193002,width-650,imgsize-521928,,resizemode-4,quality-100/food-4-hotel-others.jpg"),
                                 SizedBox(width: 10),
-                                mywid2(
-                                    "https://b.zmtcdn.com/data/reviews_photos/b7f/b9c8ea9ab7d060ba2ddedf6c9b739b7f_1525467014.jpg"),
-                                SizedBox(width: 10),
+                                // mywid2(
+                                //     "https://b.zmtcdn.com/data/reviews_photos/b7f/b9c8ea9ab7d060ba2ddedf6c9b739b7f_1525467014.jpg"),
+                                // SizedBox(width: 10),
                                 mywid2(
                                     "https://static.toiimg.com/thumb/msid-77028654,width-1200,height-900,resizemode-4/.jpg"),
+                                SizedBox(width: 10),
+                                mywid2(
+                                    "https://img.etimg.com/thumb/msid-75193002,width-650,imgsize-521928,,resizemode-4,quality-100/food-4-hotel-others.jpg"),
                                 SizedBox(width: 10),
                                 MaterialButton(
                                   height: 30,
