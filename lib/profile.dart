@@ -43,7 +43,7 @@ class _ProfilePageState extends State<ProfilePage> {
                         children: [
                           CircleAvatar(
                             radius: 50,
-                            backgroundImage: AssetImage(
+                            backgroundImage: NetworkImage(
                                 'https://krausefx.com/assets/posts/profilePictures/FelixKrause2016.jpg'),
                           ),
                           Padding(
