@@ -1,16 +1,7 @@
 # tomercon_task1
 
 A new Flutter application.
+This is a basic UI design for Login and Profile Page
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1649186718](https://user-images.githubusercontent.com/67218325/161834076-d5f9c706-c3da-46c6-b727-e56eabeded41.png)
+![Screenshot_1649186712](https://user-images.githubusercontent.com/67218325/161834080-ecce83c5-7c2a-46d0-96eb-a6dab0f3592c.png)
