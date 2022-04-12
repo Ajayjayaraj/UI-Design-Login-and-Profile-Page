@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tomercon_task1/profile.dart';
 import 'login.dart';
-// import 'package:railway/pages/register.dart';
 
 void main() {
   runApp(const MyApp());
